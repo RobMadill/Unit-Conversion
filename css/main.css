@@ -1,0 +1,44 @@
+/*
+Colors
+#156079 - Blue Sapphire - Header
+#1A936F - Illuminating Emerald - accent color (unused)
+#D9BAAB - Desert Sand - accent color (unused)
+#CDA28E - Antique Brass - text shadow
+#F7EBEC - Lavender Blush - background colour
+*/
+body{
+    background-color: #ffffff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1.5px;
+}
+h1{
+    background-color: #156079;
+    color: #F7EBEC;
+    text-shadow: 2px 2px #CDA28E;
+}
+button{
+    background-color: #156079;
+    color:#F7EBEC;
+    border-style: outset;
+    margin: 5px;
+    padding: 10px;
+    letter-spacing: 1.5px;
+    text-shadow: 1px 1px #CDA28E;
+}
+input{
+    background-color: #156079;
+    color:#F7EBEC;
+    border-style: outset;
+    margin: 5px;
+    padding: 10px;
+    letter-spacing: 1.5px;
+    text-shadow: 1px 1px #CDA28E;
+}
+.move{
+    margin-top: 50px;
+}
+.bigger{
+    text-align: center;
+    width: 275px;
+}
